@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Day09_List</string>
+    <string-array name="listSubject">
+        <item>AAA</item>
+        <item>BBB</item>
+        <item>DDD</item>
+        <item>UUU</item>
+        <item>EEE</item>
+        <item>III</item>
+        <item>KKK</item>
+    </string-array>
+</resources>
