@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Category 1">
+        <EditTextPreference android:title="Student ID: "
+            android:summary="ID demo"
+            android:key="IDPref"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Category 2">
+        <EditTextPreference android:title="Student Name: "
+            android:summary="Name demo"
+            android:key="NamePref"/>
+        <EditTextPreference android:title="Student Mark: "
+            android:summary="Mark demo"
+            android:key="MarkPref"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>
